@@ -1,0 +1,11 @@
+print blocks
+insert abcdefghijklmn<SEP>abcdefghijklmn
+print blocks
+insert abcdefghijklmn<SEP>abcdefghijklmn
+remove song abcdefghijklmn
+print blocks
+remove artist abcdefghijklmn
+print blocks
+remove nothing
+print nothing
+nothing
